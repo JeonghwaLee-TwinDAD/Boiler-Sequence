@@ -1,0 +1,19 @@
+2020-06-09 오전 11:57:43,Boiler Initialized,0
+2020-06-09 오전 11:57:57,Boiler Ready,0
+2020-06-09 오전 11:57:58,Start Pre-Purge,10.000000
+2020-06-09 오전 11:58:08,Pre-Purge Complete,10.000000
+2020-06-09 오전 11:58:16,Pilot ON,True
+2020-06-09 오전 11:58:18,Forced Draft Fan ON,True
+2020-06-09 오전 11:58:20,Pilot Proved,63
+2020-06-09 오전 11:58:21,Boiler Running,11
+2020-06-09 오전 11:58:23,10.000000,Start Shutdown Purge
+2020-06-09 오전 11:58:33,Shutdown Purge Complete,10.009398
+2020-06-09 오전 11:58:33,Boiler Initialized,0
+2020-06-09 오전 11:58:45,Boiler Initialized,0
+2020-06-09 오전 11:59:30,Boiler Initialized,0
+2020-06-09 오전 11:59:37,Boiler Ready,0
+2020-08-20 오후 6:01:57,Boiler Initialized,0
+2020-08-20 오후 6:02:00,Boiler Ready,0
+2020-08-20 오후 6:02:00,Start Pre-Purge,10.000000
+2020-08-20 오후 6:02:10,Pre-Purge Complete,10.000000
+2020-08-20 오후 6:02:11,Pilot ON,True
